@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @erikablair 
-- 👀 I’m interested in privacy and FOSS
-- 🌱 I’m currently learning anything and everything about linux and FOSS
-- 💞️ I’m looking to collaborate on nothing at the moment....  too green!
+Hi, I’m @erikablair 
+I’m interested in privacy and FOSS
+I’m currently learning anything and everything about linux and FOSS
+I’m looking to collaborate on nothing at the moment....  too green!
 
 
 <!---
